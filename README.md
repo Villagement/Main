@@ -1,4 +1,4 @@
 Villagement
 ===========
 
-Discription of game and features here
+Description of game and features here
